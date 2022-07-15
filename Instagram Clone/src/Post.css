@@ -1,0 +1,57 @@
+.Thor{
+    width: 100%;
+    object-fit: contain;  
+    border-top: 1px solid lightgray; 
+    border-bottom: 1px solid lightgray;
+    margin-top: 5px;
+}
+.Post_caption{
+    font-weight: normal;
+    padding: 10px;
+    margin-top: 5px;
+}
+.post_header{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-top: 5px;
+    
+}
+.Avatar_post{
+    margin-right: 10px;
+                        
+
+}
+.post{
+    max-width: 400px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-bottom: 45px;
+    border-radius: 10px;
+   
+    /* margin-left: 300px; */
+}
+.heart_icon{
+    margin-top: 10px;
+    width: 25px;
+    margin-left: 10px;
+}
+.Comment{
+    width: 26px;
+    margin-left: 5px;
+}
+.Share{
+    width: 22px;
+    margin-left: 5px;
+  }
+.Save{
+    width: 25px;
+    margin-left: 280px;
+    position:relative;
+  }
+  .Comment1{
+    width: 98.5%;
+    height: 45px;
+    margin-left: 0px;
+    border: 1px solid lightgray;
+  }
